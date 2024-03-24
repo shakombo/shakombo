@@ -5,7 +5,7 @@ Bio
 - 👀 I’m mostly active in DigitalOcean Community and DevDojo
 - 💞️ I use daily .py .html .R
 - ✨ Funfact: I'm a big fun of dogs
-- 🌱 I'm learning all about machine learning in Medicine
+- 🌱 I'm learning all about Artifical Intelligence and machine learning in Medicine
 - 📫 How to reach me via email. Linkedin .Twitter.
 
 <!---
